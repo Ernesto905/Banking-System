@@ -1,3 +1,2 @@
 # Banking-System
-Simple banking system created in C++
-School project
+Simple banking system for school created in C++
